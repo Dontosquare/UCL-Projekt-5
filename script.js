@@ -1,4 +1,6 @@
 
+
+// Joachim Start //
 {
 let h = document.createElement('h1'); 
 let headerText = document.createTextNode('Det her er en header');
